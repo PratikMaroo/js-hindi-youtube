@@ -1,0 +1,34 @@
+html {
+    margin: 0px;
+  }
+  
+  span {
+    display: block;
+  }
+  .canvas {
+    margin: 150px auto 100px;
+    width: 80%;
+    text-align: center;
+  }
+  
+  .button {
+    width: 100px;
+    height: 100px;
+    border: solid black 5px;
+    display: inline-block;
+  }
+  
+  #grey {
+    background: grey;
+  }
+  
+  #white {
+    background: white;
+  }
+  #skyblue {
+    background: skyblue;
+  }
+  #greenyellow {
+    background: greenyellow;
+  }
+  
